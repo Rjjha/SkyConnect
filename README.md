@@ -35,7 +35,7 @@ Non functional Requirements
 1. Flight Service : CRUD operations on all flight db models
 2. Booking Service : Book or cancel a booking
 3. Notification Service : Send email notifications to users on booking, cancellation. Run CRON jobs to check for        upcoming flights and send notifications.
-4. Authentication Service : Signin, Signup, Reverse proxy for Flight Search and Booking Service
+4. Authentication Service : Signin, Signup,Rate Limiting and Reverse proxy for Flight Search and Booking Service 
 
 ## Tech Stack
 1.  NodeJS
@@ -45,3 +45,4 @@ Non functional Requirements
 5.  RabbitMQ
 6.  NodeMailer
 7.  JWT
+8.  Docker
