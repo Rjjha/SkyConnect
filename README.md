@@ -20,6 +20,10 @@ Non functional Requirements
 
 ## Design
 
+## Basic Design
+![hld-complete](https://github.com/Rjjha/Flight-Management-Service/assets/96972257/cafd5b28-00d5-425e-9db3-ba97bdd06d7b)
+
+### High Level Design
 ![HLD](https://github.com/Rjjha/Flight-Management-Service/assets/96972257/f18d40e3-3dde-4d8b-aced-0c2b177140e6)
 
 ## ER Diagram
