@@ -20,15 +20,15 @@ Non functional Requirements
 
 ## Design
 
-![HLD-Design of Flight Booking System](hld-complete.png)
+![HLD](https://github.com/Rjjha/Flight-Management-Service/assets/96972257/f18d40e3-3dde-4d8b-aced-0c2b177140e6)
 
 ## ER Diagram
 
 ### For Flights DB
-![ER Diagram](er.png)
+![er](https://github.com/Rjjha/Flight-Management-Service/assets/96972257/40174983-4166-42fe-9da9-acb6fdd3c130)
 
 ### For Notification DB
-![ER Diagram](notificationdb.png)
+![notificationdb](https://github.com/Rjjha/Flight-Management-Service/assets/96972257/c1881818-54a0-4535-825e-40e69b47c416)
 
 
 ## Functionalities
