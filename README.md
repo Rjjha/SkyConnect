@@ -3,9 +3,9 @@
 ## Description
 This is an Airline managemnet and flight booking system based on microservices architecture. It has 4 microservices:
 1. [Flight Notification Service](https://github.com/Rjjha/Flight-Notification-Service)
-2. [Flight Booking Service]{https://github.com/Rjjha/Flight-Booking-Service}
-3. [Flight Search Service]{https://github.com/Rjjha/Flight-Search-Service}
-4. [Flight API Geateway]{https://github.com/Rjjha/Flights_API_Gateway}
+2. [Flight Booking Service](https://github.com/Rjjha/Flight-Booking-Service)
+3. [Flight Search Service](https://github.com/Rjjha/Flight-Search-Service)
+4. [Flight API Geateway](https://github.com/Rjjha/Flights_API_Gateway)
 
 ## Non Functional Requirements
 Non functional Requirements
